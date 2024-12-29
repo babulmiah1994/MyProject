@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Supabase](https://raw.githubusercontent.com/supabase/supabase-flutter/main/.github/images/supabase-banner.jpg)
 
 # `Supabase Flutter`
@@ -64,3 +65,7 @@ This repo is licenced under MIT.
 - [Quickstart: Flutter](https://supabase.com/docs/guides/with-flutter)
 - [Flutter Tutorial: building a Flutter chat app](https://supabase.com/blog/flutter-tutorial-building-a-chat-app)
 - [Flutter Tutorial - Part 2: Authentication and Authorization with RLS](https://supabase.com/blog/flutter-authentication-and-authorization-with-rls)
+=======
+# MyProject
+flutter
+>>>>>>> a3804917a01b50a6cfee1bab101b49c89086982c
